@@ -1,0 +1,1062 @@
+[debug] :: resolving dependencies :: CEP#testcaseplugin$sources_javadoc;1.0
+[debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
+[debug] 	validate = true
+[debug] 	refresh = false
+[debug] resolving dependencies for configuration 'compile'
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [compile]
+[debug] resolving dependencies for configuration 'runtime'
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [runtime]
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [compile]
+[debug] resolving dependencies for configuration 'test'
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [test]
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [runtime]
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [compile]
+[debug] resolving dependencies for configuration 'provided'
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [provided]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [provided->default(compile)]
+[info] Resolving org.scala-lang#scala-library;2.10.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@495c90c
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4
+[debug] 	found org.scala-lang#scala-library;2.10.4 in sbt-chain
+[debug] 	[2.10.4] org.scala-lang#scala-library;2.10.4
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#sbt;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#sbt;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@740ae78
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#sbt;0.13.8
+[debug] 	found org.scala-sbt#sbt;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#main;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#main;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@efadcf4
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#main;0.13.8
+[debug] 	found org.scala-sbt#main;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#actions;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#actions;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b330737
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#actions;0.13.8
+[debug] 	found org.scala-sbt#actions;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#classpath;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#classpath;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c1c3255
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#classpath;0.13.8
+[debug] 	found org.scala-sbt#classpath;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [provided->default(compile)]
+[info] Resolving org.scala-lang#scala-compiler;2.10.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a01c902
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.10.4
+[debug] 	found org.scala-lang#scala-compiler;2.10.4 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [provided->default(compile)]
+[info] Resolving org.scala-lang#scala-reflect;2.10.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21683195
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.10.4
+[debug] 	found org.scala-lang#scala-reflect;2.10.4 in sbt-chain
+[debug] 	[2.10.4] org.scala-lang#scala-reflect;2.10.4
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#launcher-interface;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#launcher-interface;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7bce337a
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#launcher-interface;0.13.8
+[debug] 	found org.scala-sbt#launcher-interface;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#interface;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#interface;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@57627d89
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#interface;0.13.8
+[debug] 	found org.scala-sbt#interface;0.13.8 in sbt-chain
+[debug] 	[0.13.8] org.scala-sbt#interface;0.13.8
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#io;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#io;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15f34743
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#io;0.13.8
+[debug] 	found org.scala-sbt#io;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#control;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#control;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4674fd7f
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#control;0.13.8
+[debug] 	found org.scala-sbt#control;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#completion;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#completion;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6eb00f81
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#completion;0.13.8
+[debug] 	found org.scala-sbt#completion;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#collections;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#collections;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@18ddfec3
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#collections;0.13.8
+[debug] 	found org.scala-sbt#collections;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->jline#jline;2.11 [provided->default(compile)]
+[info] Resolving jline#jline;2.11 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d87e9d4
+[debug] sbt-chain: module revision found in cache: jline#jline;2.11
+[debug] 	found jline#jline;2.11 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->jline#jline;2.11 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->jline#jline;2.11 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->jline#jline;2.11 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#api;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#api;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22a3ad52
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#api;0.13.8
+[debug] 	found org.scala-sbt#api;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#compiler-integration;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#compiler-integration;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68960293
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#compiler-integration;0.13.8
+[debug] 	found org.scala-sbt#compiler-integration;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#incremental-compiler;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#incremental-compiler;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@36a7ebc9
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#incremental-compiler;0.13.8
+[debug] 	found org.scala-sbt#incremental-compiler;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#logging;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#logging;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@26830b66
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#logging;0.13.8
+[debug] 	found org.scala-sbt#logging;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#process;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#process;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@119c7a9
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#process;0.13.8
+[debug] 	found org.scala-sbt#process;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#relation;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#relation;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6331c2a3
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#relation;0.13.8
+[debug] 	found org.scala-sbt#relation;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#compile;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#compile;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78f9564f
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#compile;0.13.8
+[debug] 	found org.scala-sbt#compile;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#classfile;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#classfile;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@419f6333
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#classfile;0.13.8
+[debug] 	found org.scala-sbt#classfile;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#persist;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#persist;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@62cc22c7
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#persist;0.13.8
+[debug] 	found org.scala-sbt#persist;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-tools.sbinary#sbinary_2.10;0.4.2 [provided->default(compile)]
+[info] Resolving org.scala-tools.sbinary#sbinary_2.10;0.4.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33c3bb7b
+[debug] sbt-chain: module revision found in cache: org.scala-tools.sbinary#sbinary_2.10;0.4.2
+[debug] 	found org.scala-tools.sbinary#sbinary_2.10;0.4.2 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#compiler-ivy-integration;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#compiler-ivy-integration;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45bb7f3c
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#compiler-ivy-integration;0.13.8
+[debug] 	found org.scala-sbt#compiler-ivy-integration;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#ivy;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#ivy;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d70aa37
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#ivy;0.13.8
+[debug] 	found org.scala-sbt#ivy;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#cross;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#cross;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e0f419b
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#cross;0.13.8
+[debug] 	found org.scala-sbt#cross;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt.ivy#ivy;2.3.0-sbt-fccfbd44c9f64523b61398a0155784dcbaeae28f [provided->default(compile)]
+[info] Resolving org.scala-sbt.ivy#ivy;2.3.0-sbt-fccfbd44c9f64523b61398a0155784dcbaeae28f ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@95f1eed
+[debug] sbt-chain: module revision found in cache: org.scala-sbt.ivy#ivy;2.3.0-sbt-fccfbd44c9f64523b61398a0155784dcbaeae28f
+[debug] 	found org.scala-sbt.ivy#ivy;2.3.0-sbt-fccfbd44c9f64523b61398a0155784dcbaeae28f in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.jcraft#jsch;0.1.46 [provided->default(compile)]
+[info] Resolving com.jcraft#jsch;0.1.46 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a709f00
+[debug] sbt-chain: module revision found in cache: com.jcraft#jsch;0.1.46
+[debug] 	found com.jcraft#jsch;0.1.46 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.jcraft#jsch;0.1.46 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.jcraft#jsch;0.1.46 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.jcraft#jsch;0.1.46 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#serialization_2.10;0.1.1 [provided->default(compile)]
+[info] Resolving org.scala-sbt#serialization_2.10;0.1.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@92e40c3
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#serialization_2.10;0.1.1
+[debug] 	found org.scala-sbt#serialization_2.10;0.1.1 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [provided->default(compile)]
+[info] Resolving org.scala-lang.modules#scala-pickling_2.10;0.10.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d0a7c4e
+[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-pickling_2.10;0.10.0
+[debug] 	found org.scala-lang.modules#scala-pickling_2.10;0.10.0 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [provided->default(compile)]
+[info] Resolving org.scalamacros#quasiquotes_2.10;2.0.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3853eb01
+[debug] sbt-chain: module revision found in cache: org.scalamacros#quasiquotes_2.10;2.0.1
+[debug] 	found org.scalamacros#quasiquotes_2.10;2.0.1 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-core_2.10;3.2.10 [provided->default(compile)]
+[info] Resolving org.json4s#json4s-core_2.10;3.2.10 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3901e5d5
+[debug] sbt-chain: module revision found in cache: org.json4s#json4s-core_2.10;3.2.10
+[debug] 	found org.json4s#json4s-core_2.10;3.2.10 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-core_2.10;3.2.10 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-core_2.10;3.2.10 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-core_2.10;3.2.10 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-ast_2.10;3.2.10 [provided->default(compile)]
+[info] Resolving org.json4s#json4s-ast_2.10;3.2.10 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@546d9006
+[debug] sbt-chain: module revision found in cache: org.json4s#json4s-ast_2.10;3.2.10
+[debug] 	found org.json4s#json4s-ast_2.10;3.2.10 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-ast_2.10;3.2.10 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-ast_2.10;3.2.10 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-ast_2.10;3.2.10 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.thoughtworks.paranamer#paranamer;2.6 [provided->default(compile)]
+[info] Resolving com.thoughtworks.paranamer#paranamer;2.6 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70e2554a
+[debug] sbt-chain: module revision found in cache: com.thoughtworks.paranamer#paranamer;2.6
+[debug] 	found com.thoughtworks.paranamer#paranamer;2.6 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.thoughtworks.paranamer#paranamer;2.6 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.thoughtworks.paranamer#paranamer;2.6 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.thoughtworks.paranamer#paranamer;2.6 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#jawn-parser_2.10;0.6.0 [provided->default(compile)]
+[info] Resolving org.spire-math#jawn-parser_2.10;0.6.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71517f44
+[debug] sbt-chain: module revision found in cache: org.spire-math#jawn-parser_2.10;0.6.0
+[debug] 	found org.spire-math#jawn-parser_2.10;0.6.0 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#jawn-parser_2.10;0.6.0 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#jawn-parser_2.10;0.6.0 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#jawn-parser_2.10;0.6.0 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#json4s-support_2.10;0.6.0 [provided->default(compile)]
+[info] Resolving org.spire-math#json4s-support_2.10;0.6.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d7854b3
+[debug] sbt-chain: module revision found in cache: org.spire-math#json4s-support_2.10;0.6.0
+[debug] 	found org.spire-math#json4s-support_2.10;0.6.0 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#json4s-support_2.10;0.6.0 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#json4s-support_2.10;0.6.0 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#json4s-support_2.10;0.6.0 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#run;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#run;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3cfbc159
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#run;0.13.8
+[debug] 	found org.scala-sbt#run;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#task-system;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#task-system;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@467da015
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#task-system;0.13.8
+[debug] 	found org.scala-sbt#task-system;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#tasks;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#tasks;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e86907d
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#tasks;0.13.8
+[debug] 	found org.scala-sbt#tasks;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#tracking;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#tracking;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@641fdb65
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#tracking;0.13.8
+[debug] 	found org.scala-sbt#tracking;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#cache;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#cache;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a096421
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#cache;0.13.8
+[debug] 	found org.scala-sbt#cache;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#testing;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#testing;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3df41eb1
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#testing;0.13.8
+[debug] 	found org.scala-sbt#testing;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-agent;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#test-agent;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f1353fb
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#test-agent;0.13.8
+[debug] 	found org.scala-sbt#test-agent;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-interface;1.0 [provided->default(compile)]
+[info] Resolving org.scala-sbt#test-interface;1.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19798d2f
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#test-interface;1.0
+[debug] 	found org.scala-sbt#test-interface;1.0 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-interface;1.0 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-interface;1.0 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-interface;1.0 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#main-settings;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#main-settings;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3ccadf5a
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#main-settings;0.13.8
+[debug] 	found org.scala-sbt#main-settings;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#apply-macro;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#apply-macro;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7227f679
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#apply-macro;0.13.8
+[debug] 	found org.scala-sbt#apply-macro;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#command;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#command;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@79b6af1a
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#command;0.13.8
+[debug] 	found org.scala-sbt#command;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#logic;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#logic;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f9c52f7
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#logic;0.13.8
+[debug] 	found org.scala-sbt#logic;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#compiler-interface;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#compiler-interface;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31a1cc8f
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#compiler-interface;0.13.8
+[debug] 	found org.scala-sbt#compiler-interface;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#precompiled-2_8_2;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#precompiled-2_8_2;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@757235fc
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#precompiled-2_8_2;0.13.8
+[debug] 	found org.scala-sbt#precompiled-2_8_2;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#precompiled-2_9_2;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#precompiled-2_9_2;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d94fa57
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#precompiled-2_9_2;0.13.8
+[debug] 	found org.scala-sbt#precompiled-2_9_2;0.13.8 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#precompiled-2_9_3;0.13.8 [provided->default(compile)]
+[info] Resolving org.scala-sbt#precompiled-2_9_3;0.13.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@46168ac9
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#precompiled-2_9_3;0.13.8
+[debug] 	found org.scala-sbt#precompiled-2_9_3;0.13.8 in sbt-chain
+[debug] resolving dependencies for configuration 'optional'
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [optional]
+[debug] resolving dependencies for configuration 'compile-internal'
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [compile-internal]
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [compile]
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [optional]
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [provided]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#sbt;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#main;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#actions;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#classpath;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#launcher-interface;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#interface;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#io;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#control;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#completion;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#collections;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->jline#jline;2.11 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->jline#jline;2.11 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->jline#jline;2.11 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->jline#jline;2.11 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#api;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#compiler-integration;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#incremental-compiler;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#logging;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#process;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#relation;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#compile;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#classfile;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#persist;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-tools.sbinary#sbinary_2.10;0.4.2 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#compiler-ivy-integration;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#ivy;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#cross;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt.ivy#ivy;2.3.0-sbt-fccfbd44c9f64523b61398a0155784dcbaeae28f [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.jcraft#jsch;0.1.46 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.jcraft#jsch;0.1.46 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.jcraft#jsch;0.1.46 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.jcraft#jsch;0.1.46 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#serialization_2.10;0.1.1 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-core_2.10;3.2.10 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-core_2.10;3.2.10 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-core_2.10;3.2.10 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-core_2.10;3.2.10 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-ast_2.10;3.2.10 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-ast_2.10;3.2.10 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-ast_2.10;3.2.10 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-ast_2.10;3.2.10 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.thoughtworks.paranamer#paranamer;2.6 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.thoughtworks.paranamer#paranamer;2.6 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.thoughtworks.paranamer#paranamer;2.6 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.thoughtworks.paranamer#paranamer;2.6 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#jawn-parser_2.10;0.6.0 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#jawn-parser_2.10;0.6.0 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#jawn-parser_2.10;0.6.0 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#jawn-parser_2.10;0.6.0 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#json4s-support_2.10;0.6.0 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#json4s-support_2.10;0.6.0 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#json4s-support_2.10;0.6.0 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#json4s-support_2.10;0.6.0 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#run;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#task-system;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#tasks;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#tracking;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#cache;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#testing;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-agent;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-interface;1.0 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-interface;1.0 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-interface;1.0 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-interface;1.0 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#main-settings;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#apply-macro;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#command;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#logic;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#compiler-interface;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#precompiled-2_8_2;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#precompiled-2_9_2;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#precompiled-2_9_3;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [compile-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [compile-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [compile-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#sbt;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#main;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#actions;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#classpath;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [compile-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [compile-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [compile-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [compile-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [compile-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [compile-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#launcher-interface;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#interface;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#io;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#control;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#completion;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#collections;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->jline#jline;2.11 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->jline#jline;2.11 [compile-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->jline#jline;2.11 [compile-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->jline#jline;2.11 [compile-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#api;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#compiler-integration;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#incremental-compiler;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#logging;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#process;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#relation;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#compile;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#classfile;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#persist;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-tools.sbinary#sbinary_2.10;0.4.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#compiler-ivy-integration;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#ivy;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#cross;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt.ivy#ivy;2.3.0-sbt-fccfbd44c9f64523b61398a0155784dcbaeae28f [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.jcraft#jsch;0.1.46 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.jcraft#jsch;0.1.46 [compile-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.jcraft#jsch;0.1.46 [compile-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.jcraft#jsch;0.1.46 [compile-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#serialization_2.10;0.1.1 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [compile-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [compile-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [compile-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [compile-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [compile-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [compile-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-core_2.10;3.2.10 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-core_2.10;3.2.10 [compile-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-core_2.10;3.2.10 [compile-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-core_2.10;3.2.10 [compile-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-ast_2.10;3.2.10 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-ast_2.10;3.2.10 [compile-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-ast_2.10;3.2.10 [compile-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-ast_2.10;3.2.10 [compile-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#jawn-parser_2.10;0.6.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#jawn-parser_2.10;0.6.0 [compile-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#jawn-parser_2.10;0.6.0 [compile-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#jawn-parser_2.10;0.6.0 [compile-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#json4s-support_2.10;0.6.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#json4s-support_2.10;0.6.0 [compile-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#json4s-support_2.10;0.6.0 [compile-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#json4s-support_2.10;0.6.0 [compile-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#run;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#task-system;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#tasks;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#tracking;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#cache;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#testing;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-agent;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-interface;1.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-interface;1.0 [compile-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-interface;1.0 [compile-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-interface;1.0 [compile-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#main-settings;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#apply-macro;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#command;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#logic;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#compiler-interface;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#precompiled-2_8_2;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#precompiled-2_9_2;0.13.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#precompiled-2_9_3;0.13.8 [compile-internal->default(compile)]
+[debug] resolving dependencies for configuration 'runtime-internal'
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [runtime-internal]
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [runtime]
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [compile]
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [optional]
+[debug] resolving dependencies for configuration 'test-internal'
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [test-internal]
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [test]
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [runtime]
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [compile]
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [optional]
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [provided]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#sbt;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#main;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#actions;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#classpath;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#launcher-interface;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#interface;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#io;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#control;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#completion;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#collections;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->jline#jline;2.11 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->jline#jline;2.11 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->jline#jline;2.11 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->jline#jline;2.11 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#api;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#compiler-integration;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#incremental-compiler;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#logging;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#process;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#relation;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#compile;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#classfile;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#persist;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-tools.sbinary#sbinary_2.10;0.4.2 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#compiler-ivy-integration;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#ivy;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#cross;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt.ivy#ivy;2.3.0-sbt-fccfbd44c9f64523b61398a0155784dcbaeae28f [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.jcraft#jsch;0.1.46 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.jcraft#jsch;0.1.46 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.jcraft#jsch;0.1.46 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.jcraft#jsch;0.1.46 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#serialization_2.10;0.1.1 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-core_2.10;3.2.10 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-core_2.10;3.2.10 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-core_2.10;3.2.10 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-core_2.10;3.2.10 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-ast_2.10;3.2.10 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-ast_2.10;3.2.10 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-ast_2.10;3.2.10 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-ast_2.10;3.2.10 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.thoughtworks.paranamer#paranamer;2.6 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.thoughtworks.paranamer#paranamer;2.6 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.thoughtworks.paranamer#paranamer;2.6 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.thoughtworks.paranamer#paranamer;2.6 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#jawn-parser_2.10;0.6.0 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#jawn-parser_2.10;0.6.0 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#jawn-parser_2.10;0.6.0 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#jawn-parser_2.10;0.6.0 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#json4s-support_2.10;0.6.0 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#json4s-support_2.10;0.6.0 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#json4s-support_2.10;0.6.0 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#json4s-support_2.10;0.6.0 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#run;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#task-system;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#tasks;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#tracking;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#cache;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#testing;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-agent;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-interface;1.0 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-interface;1.0 [provided->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-interface;1.0 [provided->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-interface;1.0 [provided->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#main-settings;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#apply-macro;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#command;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#logic;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#compiler-interface;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#precompiled-2_8_2;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#precompiled-2_9_2;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#precompiled-2_9_3;0.13.8 [provided->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [test-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [test-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [test-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#sbt;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#main;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#actions;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#classpath;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [test-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [test-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [test-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [test-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [test-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [test-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#launcher-interface;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#interface;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#io;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#control;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#completion;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#collections;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->jline#jline;2.11 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->jline#jline;2.11 [test-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->jline#jline;2.11 [test-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->jline#jline;2.11 [test-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#api;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#compiler-integration;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#incremental-compiler;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#logging;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#process;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#relation;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#compile;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#classfile;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#persist;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-tools.sbinary#sbinary_2.10;0.4.2 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#compiler-ivy-integration;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#ivy;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#cross;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt.ivy#ivy;2.3.0-sbt-fccfbd44c9f64523b61398a0155784dcbaeae28f [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.jcraft#jsch;0.1.46 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.jcraft#jsch;0.1.46 [test-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.jcraft#jsch;0.1.46 [test-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.jcraft#jsch;0.1.46 [test-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#serialization_2.10;0.1.1 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [test-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [test-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [test-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [test-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [test-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [test-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-core_2.10;3.2.10 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-core_2.10;3.2.10 [test-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-core_2.10;3.2.10 [test-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-core_2.10;3.2.10 [test-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-ast_2.10;3.2.10 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-ast_2.10;3.2.10 [test-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-ast_2.10;3.2.10 [test-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.json4s#json4s-ast_2.10;3.2.10 [test-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.thoughtworks.paranamer#paranamer;2.6 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.thoughtworks.paranamer#paranamer;2.6 [test-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.thoughtworks.paranamer#paranamer;2.6 [test-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->com.thoughtworks.paranamer#paranamer;2.6 [test-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#jawn-parser_2.10;0.6.0 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#jawn-parser_2.10;0.6.0 [test-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#jawn-parser_2.10;0.6.0 [test-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#jawn-parser_2.10;0.6.0 [test-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#json4s-support_2.10;0.6.0 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#json4s-support_2.10;0.6.0 [test-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#json4s-support_2.10;0.6.0 [test-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.spire-math#json4s-support_2.10;0.6.0 [test-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#run;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#task-system;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#tasks;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#tracking;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#cache;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#testing;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-agent;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-interface;1.0 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-interface;1.0 [test-internal->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-interface;1.0 [test-internal->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#test-interface;1.0 [test-internal->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#main-settings;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#apply-macro;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#command;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#logic;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#compiler-interface;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#precompiled-2_8_2;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#precompiled-2_9_2;0.13.8 [test-internal->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-sbt#precompiled-2_9_3;0.13.8 [test-internal->default(compile)]
+[debug] resolving dependencies for configuration 'plugin'
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [plugin]
+[debug] resolving dependencies for configuration 'sources'
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [sources]
+[debug] resolving dependencies for configuration 'docs'
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [docs]
+[debug] resolving dependencies for configuration 'pom'
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [pom]
+[debug] resolving dependencies for configuration 'scala-tool'
+[debug] == resolving dependencies for CEP#testcaseplugin$sources_javadoc;1.0 [scala-tool]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [scala-tool->default(compile)]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [scala-tool->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [scala-tool->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#scala-reflect;2.10.4 [scala-tool->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#jline;2.10.4 [scala-tool->default(compile)]
+[info] Resolving org.scala-lang#jline;2.10.4 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#jline;2.10.4 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#jline;2.10.4
+[debug] 	found org.scala-lang#jline;2.10.4 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#jline;2.10.4 [scala-tool->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#jline;2.10.4 [scala-tool->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.scala-lang#jline;2.10.4 [scala-tool->master]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.fusesource.jansi#jansi;1.4 [scala-tool->default(compile)]
+[info] Resolving org.fusesource.jansi#jansi;1.4 ...
+[debug] sbt-chain: Checking cache for: dependency: org.fusesource.jansi#jansi;1.4 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.fusesource.jansi#jansi;1.4
+[debug] 	found org.fusesource.jansi#jansi;1.4 in sbt-chain
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.fusesource.jansi#jansi;1.4 [scala-tool->runtime]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.fusesource.jansi#jansi;1.4 [scala-tool->compile]
+[debug] == resolving dependencies CEP#testcaseplugin$sources_javadoc;1.0->org.fusesource.jansi#jansi;1.4 [scala-tool->master]
+[debug] 	resolved ivy file produced in cache
+[debug] :: downloading artifacts ::
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.10.4!scala-library.jar
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.10.4!scala-library.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.10.4!scala-library.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-sbt#sbt;0.13.8!sbt.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#sbt;0.13.8!sbt.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#main;0.13.8!main.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#main;0.13.8!main.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#actions;0.13.8!actions.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#actions;0.13.8!actions.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#classpath;0.13.8!classpath.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#classpath;0.13.8!classpath.jar
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.4!scala-compiler.jar
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.4!scala-compiler.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.4!scala-compiler.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.4!scala-reflect.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.4!scala-reflect.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.4!scala-reflect.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#launcher-interface;0.13.8!launcher-interface.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#launcher-interface;0.13.8!launcher-interface.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#interface;0.13.8!interface.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#interface;0.13.8!interface.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#io;0.13.8!io.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#io;0.13.8!io.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#control;0.13.8!control.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#control;0.13.8!control.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#completion;0.13.8!completion.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#completion;0.13.8!completion.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#collections;0.13.8!collections.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#collections;0.13.8!collections.jar
+[debug] 	[NOT REQUIRED] jline#jline;2.11!jline.jar
+[debug] 	[NOT REQUIRED] jline#jline;2.11!jline.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#api;0.13.8!api.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#api;0.13.8!api.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#compiler-integration;0.13.8!compiler-integration.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#compiler-integration;0.13.8!compiler-integration.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#incremental-compiler;0.13.8!incremental-compiler.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#incremental-compiler;0.13.8!incremental-compiler.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#logging;0.13.8!logging.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#logging;0.13.8!logging.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#process;0.13.8!process.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#process;0.13.8!process.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#relation;0.13.8!relation.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#relation;0.13.8!relation.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#compile;0.13.8!compile.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#compile;0.13.8!compile.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#classfile;0.13.8!classfile.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#classfile;0.13.8!classfile.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#persist;0.13.8!persist.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#persist;0.13.8!persist.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-tools.sbinary#sbinary_2.10;0.4.2!sbinary_2.10.jar
+[debug] 	[NOT REQUIRED] org.scala-tools.sbinary#sbinary_2.10;0.4.2!sbinary_2.10.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#compiler-ivy-integration;0.13.8!compiler-ivy-integration.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#compiler-ivy-integration;0.13.8!compiler-ivy-integration.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#ivy;0.13.8!ivy.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#ivy;0.13.8!ivy.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#cross;0.13.8!cross.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#cross;0.13.8!cross.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt.ivy#ivy;2.3.0-sbt-fccfbd44c9f64523b61398a0155784dcbaeae28f!ivy.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt.ivy#ivy;2.3.0-sbt-fccfbd44c9f64523b61398a0155784dcbaeae28f!ivy.jar
+[debug] 	[NOT REQUIRED] com.jcraft#jsch;0.1.46!jsch.jar
+[debug] 	[NOT REQUIRED] com.jcraft#jsch;0.1.46!jsch.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#serialization_2.10;0.1.1!serialization_2.10.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#serialization_2.10;0.1.1!serialization_2.10.jar
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-pickling_2.10;0.10.0!scala-pickling_2.10.jar
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-pickling_2.10;0.10.0!scala-pickling_2.10.jar(src)
+[debug] 	[NOT REQUIRED] org.scalamacros#quasiquotes_2.10;2.0.1!quasiquotes_2.10.jar(doc)
+[debug] 	[NOT REQUIRED] org.scalamacros#quasiquotes_2.10;2.0.1!quasiquotes_2.10.jar(src)
+[debug] 	[NOT REQUIRED] org.scalamacros#quasiquotes_2.10;2.0.1!quasiquotes_2.10.jar
+[debug] 	[NOT REQUIRED] org.json4s#json4s-core_2.10;3.2.10!json4s-core_2.10.jar(src)
+[debug] 	[NOT REQUIRED] org.json4s#json4s-core_2.10;3.2.10!json4s-core_2.10.jar
+[debug] 	[NOT REQUIRED] org.json4s#json4s-core_2.10;3.2.10!json4s-core_2.10.jar(doc)
+[debug] 	[NOT REQUIRED] org.json4s#json4s-ast_2.10;3.2.10!json4s-ast_2.10.jar(src)
+[debug] 	[NOT REQUIRED] org.json4s#json4s-ast_2.10;3.2.10!json4s-ast_2.10.jar(doc)
+[debug] 	[NOT REQUIRED] org.json4s#json4s-ast_2.10;3.2.10!json4s-ast_2.10.jar
+[debug] 	[NOT REQUIRED] com.thoughtworks.paranamer#paranamer;2.6!paranamer.jar(src)
+[debug] 	[NOT REQUIRED] com.thoughtworks.paranamer#paranamer;2.6!paranamer.jar(doc)
+[debug] 	[NOT REQUIRED] com.thoughtworks.paranamer#paranamer;2.6!paranamer.jar
+[debug] 	[NOT REQUIRED] org.spire-math#jawn-parser_2.10;0.6.0!jawn-parser_2.10.jar(src)
+[debug] 	[NOT REQUIRED] org.spire-math#jawn-parser_2.10;0.6.0!jawn-parser_2.10.jar
+[debug] 	[NOT REQUIRED] org.spire-math#json4s-support_2.10;0.6.0!json4s-support_2.10.jar
+[debug] 	[NOT REQUIRED] org.spire-math#json4s-support_2.10;0.6.0!json4s-support_2.10.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#run;0.13.8!run.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#run;0.13.8!run.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#task-system;0.13.8!task-system.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#task-system;0.13.8!task-system.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#tasks;0.13.8!tasks.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#tasks;0.13.8!tasks.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#tracking;0.13.8!tracking.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#tracking;0.13.8!tracking.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#cache;0.13.8!cache.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#cache;0.13.8!cache.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#testing;0.13.8!testing.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#testing;0.13.8!testing.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#main-settings;0.13.8!main-settings.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#main-settings;0.13.8!main-settings.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#command;0.13.8!command.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#command;0.13.8!command.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#logic;0.13.8!logic.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#logic;0.13.8!logic.jar(src)
+[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-interface/0.13.8/docs/compiler-interface-javadoc.jar
+[warn] Host repo.typesafe.com not found. url=https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-interface/0.13.8/docs/compiler-interface-javadoc.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-interface/0.13.8/jars/compiler-interface.jar
+[warn] Host repo.typesafe.com not found. url=https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-interface/0.13.8/jars/compiler-interface.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/compiler-interface/0.13.8/docs/compiler-interface-javadoc.jar
+[warn] Host repo.scala-sbt.org not found. url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/compiler-interface/0.13.8/docs/compiler-interface-javadoc.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/compiler-interface/0.13.8/jars/compiler-interface.jar
+[warn] Host repo.scala-sbt.org not found. url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/compiler-interface/0.13.8/jars/compiler-interface.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried /Users/ravi/.ivy2/local/org.scala-sbt/compiler-interface/0.13.8/docs/compiler-interface-javadoc.jar
+[debug] 		tried /Users/ravi/.ivy2/local/org.scala-sbt/compiler-interface/0.13.8/jars/compiler-interface.jar
+[debug] 		tried /Users/ravi/.activator/repository/org.scala-sbt/compiler-interface/0.13.8/docs/compiler-interface-javadoc.jar
+[debug] 		tried /Users/ravi/.activator/repository/org.scala-sbt/compiler-interface/0.13.8/jars/compiler-interface.jar
+[debug] 		tried /Users/ravi/Downloads/activator-dist-1.3.12/repository/org.scala-sbt/compiler-interface/0.13.8/docs/compiler-interface-javadoc.jar
+[debug] 		tried /Users/ravi/Downloads/activator-dist-1.3.12/repository/org.scala-sbt/compiler-interface/0.13.8/jars/compiler-interface.jar
+[debug] 		tried https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/0.13.8/compiler-interface-0.13.8-javadoc.jar
+[warn] Host repo1.maven.org not found. url=https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/0.13.8/compiler-interface-0.13.8-javadoc.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/0.13.8/compiler-interface-0.13.8.jar
+[warn] Host repo1.maven.org not found. url=https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/0.13.8/compiler-interface-0.13.8.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried http://repo.typesafe.com/typesafe/releases/org/scala-sbt/compiler-interface/0.13.8/compiler-interface-0.13.8-javadoc.jar
+[warn] Host repo.typesafe.com not found. url=http://repo.typesafe.com/typesafe/releases/org/scala-sbt/compiler-interface/0.13.8/compiler-interface-0.13.8-javadoc.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried http://repo.typesafe.com/typesafe/releases/org/scala-sbt/compiler-interface/0.13.8/compiler-interface-0.13.8.jar
+[warn] Host repo.typesafe.com not found. url=http://repo.typesafe.com/typesafe/releases/org/scala-sbt/compiler-interface/0.13.8/compiler-interface-0.13.8.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-interface/0.13.8/docs/compiler-interface-javadoc.jar
+[warn] Host repo.typesafe.com not found. url=http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-interface/0.13.8/docs/compiler-interface-javadoc.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-interface/0.13.8/jars/compiler-interface.jar
+[warn] Host repo.typesafe.com not found. url=http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-interface/0.13.8/jars/compiler-interface.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[warn] 	[FAILED     ] org.scala-sbt#compiler-interface;0.13.8!compiler-interface.jar(doc):  (0ms)
+[warn] ==== typesafe-ivy-releases: tried
+[warn]   https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-interface/0.13.8/docs/compiler-interface-javadoc.jar
+[warn] ==== sbt-plugin-releases: tried
+[warn]   https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/compiler-interface/0.13.8/docs/compiler-interface-javadoc.jar
+[warn] ==== local: tried
+[warn]   /Users/ravi/.ivy2/local/org.scala-sbt/compiler-interface/0.13.8/docs/compiler-interface-javadoc.jar
+[warn] ==== activator-launcher-local: tried
+[warn]   /Users/ravi/.activator/repository/org.scala-sbt/compiler-interface/0.13.8/docs/compiler-interface-javadoc.jar
+[warn] ==== activator-local: tried
+[warn]   /Users/ravi/Downloads/activator-dist-1.3.12/repository/org.scala-sbt/compiler-interface/0.13.8/docs/compiler-interface-javadoc.jar
+[warn] ==== public: tried
+[warn]   https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/0.13.8/compiler-interface-0.13.8-javadoc.jar
+[warn] ==== typesafe-releases: tried
+[warn]   http://repo.typesafe.com/typesafe/releases/org/scala-sbt/compiler-interface/0.13.8/compiler-interface-0.13.8-javadoc.jar
+[warn] ==== typesafe-ivy-releasez: tried
+[warn]   http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-interface/0.13.8/docs/compiler-interface-javadoc.jar
+[warn] 	[FAILED     ] org.scala-sbt#compiler-interface;0.13.8!compiler-interface.jar:  (0ms)
+[warn] ==== typesafe-ivy-releases: tried
+[warn]   https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-interface/0.13.8/jars/compiler-interface.jar
+[warn] ==== sbt-plugin-releases: tried
+[warn]   https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/compiler-interface/0.13.8/jars/compiler-interface.jar
+[warn] ==== local: tried
+[warn]   /Users/ravi/.ivy2/local/org.scala-sbt/compiler-interface/0.13.8/jars/compiler-interface.jar
+[warn] ==== activator-launcher-local: tried
+[warn]   /Users/ravi/.activator/repository/org.scala-sbt/compiler-interface/0.13.8/jars/compiler-interface.jar
+[warn] ==== activator-local: tried
+[warn]   /Users/ravi/Downloads/activator-dist-1.3.12/repository/org.scala-sbt/compiler-interface/0.13.8/jars/compiler-interface.jar
+[warn] ==== public: tried
+[warn]   https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/0.13.8/compiler-interface-0.13.8.jar
+[warn] ==== typesafe-releases: tried
+[warn]   http://repo.typesafe.com/typesafe/releases/org/scala-sbt/compiler-interface/0.13.8/compiler-interface-0.13.8.jar
+[warn] ==== typesafe-ivy-releasez: tried
+[warn]   http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-interface/0.13.8/jars/compiler-interface.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
+[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/precompiled-2_8_2/0.13.8/jars/precompiled-2_8_2.jar
+[warn] Host repo.typesafe.com not found. url=https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/precompiled-2_8_2/0.13.8/jars/precompiled-2_8_2.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/precompiled-2_8_2/0.13.8/jars/precompiled-2_8_2.jar
+[warn] Host repo.scala-sbt.org not found. url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/precompiled-2_8_2/0.13.8/jars/precompiled-2_8_2.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried /Users/ravi/.ivy2/local/org.scala-sbt/precompiled-2_8_2/0.13.8/jars/precompiled-2_8_2.jar
+[debug] 		tried /Users/ravi/.activator/repository/org.scala-sbt/precompiled-2_8_2/0.13.8/jars/precompiled-2_8_2.jar
+[debug] 		tried /Users/ravi/Downloads/activator-dist-1.3.12/repository/org.scala-sbt/precompiled-2_8_2/0.13.8/jars/precompiled-2_8_2.jar
+[debug] 		tried https://repo1.maven.org/maven2/org/scala-sbt/precompiled-2_8_2/0.13.8/precompiled-2_8_2-0.13.8.jar
+[warn] Host repo1.maven.org not found. url=https://repo1.maven.org/maven2/org/scala-sbt/precompiled-2_8_2/0.13.8/precompiled-2_8_2-0.13.8.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried http://repo.typesafe.com/typesafe/releases/org/scala-sbt/precompiled-2_8_2/0.13.8/precompiled-2_8_2-0.13.8.jar
+[warn] Host repo.typesafe.com not found. url=http://repo.typesafe.com/typesafe/releases/org/scala-sbt/precompiled-2_8_2/0.13.8/precompiled-2_8_2-0.13.8.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/precompiled-2_8_2/0.13.8/jars/precompiled-2_8_2.jar
+[warn] Host repo.typesafe.com not found. url=http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/precompiled-2_8_2/0.13.8/jars/precompiled-2_8_2.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[warn] 	[FAILED     ] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar:  (0ms)
+[warn] ==== typesafe-ivy-releases: tried
+[warn]   https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/precompiled-2_8_2/0.13.8/jars/precompiled-2_8_2.jar
+[warn] ==== sbt-plugin-releases: tried
+[warn]   https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/precompiled-2_8_2/0.13.8/jars/precompiled-2_8_2.jar
+[warn] ==== local: tried
+[warn]   /Users/ravi/.ivy2/local/org.scala-sbt/precompiled-2_8_2/0.13.8/jars/precompiled-2_8_2.jar
+[warn] ==== activator-launcher-local: tried
+[warn]   /Users/ravi/.activator/repository/org.scala-sbt/precompiled-2_8_2/0.13.8/jars/precompiled-2_8_2.jar
+[warn] ==== activator-local: tried
+[warn]   /Users/ravi/Downloads/activator-dist-1.3.12/repository/org.scala-sbt/precompiled-2_8_2/0.13.8/jars/precompiled-2_8_2.jar
+[warn] ==== public: tried
+[warn]   https://repo1.maven.org/maven2/org/scala-sbt/precompiled-2_8_2/0.13.8/precompiled-2_8_2-0.13.8.jar
+[warn] ==== typesafe-releases: tried
+[warn]   http://repo.typesafe.com/typesafe/releases/org/scala-sbt/precompiled-2_8_2/0.13.8/precompiled-2_8_2-0.13.8.jar
+[warn] ==== typesafe-ivy-releasez: tried
+[warn]   http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/precompiled-2_8_2/0.13.8/jars/precompiled-2_8_2.jar
+[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/precompiled-2_9_2/0.13.8/jars/precompiled-2_9_2.jar
+[warn] Host repo.typesafe.com not found. url=https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/precompiled-2_9_2/0.13.8/jars/precompiled-2_9_2.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
+[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/precompiled-2_9_2/0.13.8/jars/precompiled-2_9_2.jar
+[warn] Host repo.scala-sbt.org not found. url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/precompiled-2_9_2/0.13.8/jars/precompiled-2_9_2.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried /Users/ravi/.ivy2/local/org.scala-sbt/precompiled-2_9_2/0.13.8/jars/precompiled-2_9_2.jar
+[debug] 		tried /Users/ravi/.activator/repository/org.scala-sbt/precompiled-2_9_2/0.13.8/jars/precompiled-2_9_2.jar
+[debug] 		tried /Users/ravi/Downloads/activator-dist-1.3.12/repository/org.scala-sbt/precompiled-2_9_2/0.13.8/jars/precompiled-2_9_2.jar
+[debug] 		tried https://repo1.maven.org/maven2/org/scala-sbt/precompiled-2_9_2/0.13.8/precompiled-2_9_2-0.13.8.jar
+[warn] Host repo1.maven.org not found. url=https://repo1.maven.org/maven2/org/scala-sbt/precompiled-2_9_2/0.13.8/precompiled-2_9_2-0.13.8.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried http://repo.typesafe.com/typesafe/releases/org/scala-sbt/precompiled-2_9_2/0.13.8/precompiled-2_9_2-0.13.8.jar
+[warn] Host repo.typesafe.com not found. url=http://repo.typesafe.com/typesafe/releases/org/scala-sbt/precompiled-2_9_2/0.13.8/precompiled-2_9_2-0.13.8.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/precompiled-2_9_2/0.13.8/jars/precompiled-2_9_2.jar
+[warn] Host repo.typesafe.com not found. url=http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/precompiled-2_9_2/0.13.8/jars/precompiled-2_9_2.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[warn] 	[FAILED     ] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar:  (0ms)
+[warn] ==== typesafe-ivy-releases: tried
+[warn]   https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/precompiled-2_9_2/0.13.8/jars/precompiled-2_9_2.jar
+[warn] ==== sbt-plugin-releases: tried
+[warn]   https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/precompiled-2_9_2/0.13.8/jars/precompiled-2_9_2.jar
+[warn] ==== local: tried
+[warn]   /Users/ravi/.ivy2/local/org.scala-sbt/precompiled-2_9_2/0.13.8/jars/precompiled-2_9_2.jar
+[warn] ==== activator-launcher-local: tried
+[warn]   /Users/ravi/.activator/repository/org.scala-sbt/precompiled-2_9_2/0.13.8/jars/precompiled-2_9_2.jar
+[warn] ==== activator-local: tried
+[warn]   /Users/ravi/Downloads/activator-dist-1.3.12/repository/org.scala-sbt/precompiled-2_9_2/0.13.8/jars/precompiled-2_9_2.jar
+[warn] ==== public: tried
+[warn]   https://repo1.maven.org/maven2/org/scala-sbt/precompiled-2_9_2/0.13.8/precompiled-2_9_2-0.13.8.jar
+[warn] ==== typesafe-releases: tried
+[warn]   http://repo.typesafe.com/typesafe/releases/org/scala-sbt/precompiled-2_9_2/0.13.8/precompiled-2_9_2-0.13.8.jar
+[warn] ==== typesafe-ivy-releasez: tried
+[warn]   http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/precompiled-2_9_2/0.13.8/jars/precompiled-2_9_2.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
+[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/precompiled-2_9_3/0.13.8/jars/precompiled-2_9_3.jar
+[warn] Host repo.typesafe.com not found. url=https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/precompiled-2_9_3/0.13.8/jars/precompiled-2_9_3.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/precompiled-2_9_3/0.13.8/jars/precompiled-2_9_3.jar
+[warn] Host repo.scala-sbt.org not found. url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/precompiled-2_9_3/0.13.8/jars/precompiled-2_9_3.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried /Users/ravi/.ivy2/local/org.scala-sbt/precompiled-2_9_3/0.13.8/jars/precompiled-2_9_3.jar
+[debug] 		tried /Users/ravi/.activator/repository/org.scala-sbt/precompiled-2_9_3/0.13.8/jars/precompiled-2_9_3.jar
+[debug] 		tried /Users/ravi/Downloads/activator-dist-1.3.12/repository/org.scala-sbt/precompiled-2_9_3/0.13.8/jars/precompiled-2_9_3.jar
+[debug] 		tried https://repo1.maven.org/maven2/org/scala-sbt/precompiled-2_9_3/0.13.8/precompiled-2_9_3-0.13.8.jar
+[warn] Host repo1.maven.org not found. url=https://repo1.maven.org/maven2/org/scala-sbt/precompiled-2_9_3/0.13.8/precompiled-2_9_3-0.13.8.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried http://repo.typesafe.com/typesafe/releases/org/scala-sbt/precompiled-2_9_3/0.13.8/precompiled-2_9_3-0.13.8.jar
+[warn] Host repo.typesafe.com not found. url=http://repo.typesafe.com/typesafe/releases/org/scala-sbt/precompiled-2_9_3/0.13.8/precompiled-2_9_3-0.13.8.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/precompiled-2_9_3/0.13.8/jars/precompiled-2_9_3.jar
+[warn] Host repo.typesafe.com not found. url=http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/precompiled-2_9_3/0.13.8/jars/precompiled-2_9_3.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[warn] 	[FAILED     ] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar:  (0ms)
+[warn] ==== typesafe-ivy-releases: tried
+[warn]   https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/precompiled-2_9_3/0.13.8/jars/precompiled-2_9_3.jar
+[warn] ==== sbt-plugin-releases: tried
+[warn]   https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/precompiled-2_9_3/0.13.8/jars/precompiled-2_9_3.jar
+[warn] ==== local: tried
+[warn]   /Users/ravi/.ivy2/local/org.scala-sbt/precompiled-2_9_3/0.13.8/jars/precompiled-2_9_3.jar
+[warn] ==== activator-launcher-local: tried
+[warn]   /Users/ravi/.activator/repository/org.scala-sbt/precompiled-2_9_3/0.13.8/jars/precompiled-2_9_3.jar
+[warn] ==== activator-local: tried
+[warn]   /Users/ravi/Downloads/activator-dist-1.3.12/repository/org.scala-sbt/precompiled-2_9_3/0.13.8/jars/precompiled-2_9_3.jar
+[warn] ==== public: tried
+[warn]   https://repo1.maven.org/maven2/org/scala-sbt/precompiled-2_9_3/0.13.8/precompiled-2_9_3-0.13.8.jar
+[warn] ==== typesafe-releases: tried
+[warn]   http://repo.typesafe.com/typesafe/releases/org/scala-sbt/precompiled-2_9_3/0.13.8/precompiled-2_9_3-0.13.8.jar
+[warn] ==== typesafe-ivy-releasez: tried
+[warn]   http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/precompiled-2_9_3/0.13.8/jars/precompiled-2_9_3.jar
+[debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar(src)
+[debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar(doc)
+[debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar(src)
+[debug] :: resolution report :: resolve 406ms :: artifacts dl 83ms
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[warn] 	::              FAILED DOWNLOADS            ::
+[warn] 	:: ^ see resolution messages for details  ^ ::
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[warn] 	:: org.scala-sbt#compiler-interface;0.13.8!compiler-interface.jar(doc)
+[warn] 	:: org.scala-sbt#compiler-interface;0.13.8!compiler-interface.jar
+[warn] 	:: org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar
+[warn] 	:: org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar
+[warn] 	:: org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[debug] 	report for CEP#testcaseplugin$sources_javadoc;1.0 compile produced in /Users/ravi/SbtPlugin/target/resolution-cache/reports/CEP-testcaseplugin$sources_javadoc-compile.xml
+[debug] 	report for CEP#testcaseplugin$sources_javadoc;1.0 runtime produced in /Users/ravi/SbtPlugin/target/resolution-cache/reports/CEP-testcaseplugin$sources_javadoc-runtime.xml
+[debug] 	report for CEP#testcaseplugin$sources_javadoc;1.0 test produced in /Users/ravi/SbtPlugin/target/resolution-cache/reports/CEP-testcaseplugin$sources_javadoc-test.xml
+[debug] 	report for CEP#testcaseplugin$sources_javadoc;1.0 provided produced in /Users/ravi/SbtPlugin/target/resolution-cache/reports/CEP-testcaseplugin$sources_javadoc-provided.xml
+[debug] 	report for CEP#testcaseplugin$sources_javadoc;1.0 optional produced in /Users/ravi/SbtPlugin/target/resolution-cache/reports/CEP-testcaseplugin$sources_javadoc-optional.xml
+[debug] 	report for CEP#testcaseplugin$sources_javadoc;1.0 compile-internal produced in /Users/ravi/SbtPlugin/target/resolution-cache/reports/CEP-testcaseplugin$sources_javadoc-compile-internal.xml
+[debug] 	report for CEP#testcaseplugin$sources_javadoc;1.0 runtime-internal produced in /Users/ravi/SbtPlugin/target/resolution-cache/reports/CEP-testcaseplugin$sources_javadoc-runtime-internal.xml
+[debug] 	report for CEP#testcaseplugin$sources_javadoc;1.0 test-internal produced in /Users/ravi/SbtPlugin/target/resolution-cache/reports/CEP-testcaseplugin$sources_javadoc-test-internal.xml
+[debug] 	report for CEP#testcaseplugin$sources_javadoc;1.0 plugin produced in /Users/ravi/SbtPlugin/target/resolution-cache/reports/CEP-testcaseplugin$sources_javadoc-plugin.xml
+[debug] 	report for CEP#testcaseplugin$sources_javadoc;1.0 sources produced in /Users/ravi/SbtPlugin/target/resolution-cache/reports/CEP-testcaseplugin$sources_javadoc-sources.xml
+[debug] 	report for CEP#testcaseplugin$sources_javadoc;1.0 docs produced in /Users/ravi/SbtPlugin/target/resolution-cache/reports/CEP-testcaseplugin$sources_javadoc-docs.xml
+[debug] 	report for CEP#testcaseplugin$sources_javadoc;1.0 pom produced in /Users/ravi/SbtPlugin/target/resolution-cache/reports/CEP-testcaseplugin$sources_javadoc-pom.xml
+[debug] 	report for CEP#testcaseplugin$sources_javadoc;1.0 scala-tool produced in /Users/ravi/SbtPlugin/target/resolution-cache/reports/CEP-testcaseplugin$sources_javadoc-scala-tool.xml
+[debug] 	resolve done (406ms resolve - 83ms download)

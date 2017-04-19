@@ -1,0 +1,124 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/ravi/SbtPlugin/target/scala-2.10/sbt-0.13/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+4 items
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> /Users/ravi/SbtPlugin/target/scala-2.10/sbt-0.13/classes/com/cba/omnia/cep/Myplugin$$anonfun$myCommand$1.class
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> /Users/ravi/SbtPlugin/target/scala-2.10/sbt-0.13/classes/com/cba/omnia/cep/Myplugin$$anonfun$settings$1.class
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> /Users/ravi/SbtPlugin/target/scala-2.10/sbt-0.13/classes/com/cba/omnia/cep/Myplugin$.class
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> /Users/ravi/SbtPlugin/target/scala-2.10/sbt-0.13/classes/com/cba/omnia/cep/Myplugin.class
+binary dependencies:
+6 items
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> /Users/ravi/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.8.jar
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> /Users/ravi/.ivy2/cache/org.scala-sbt/command/jars/command-0.13.8.jar
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> /Users/ravi/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.8.jar
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> /Users/ravi/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.8.jar
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> /Users/ravi/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+4 items
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> com.cba.omnia.cep.Myplugin
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> com.cba.omnia.cep.Myplugin$
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> com.cba.omnia.cep.Myplugin$$anonfun$myCommand$1
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> com.cba.omnia.cep.Myplugin$$anonfun$settings$1
+used names:
+28 items
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> +=
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> <init>
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> Append
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> Command
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> InitializeInstance
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> Keys
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> Myplugin
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> Plugin
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> Predef
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> Seq
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> State
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> append1
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> appendSeq
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> apply
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> cba
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> cep
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> collection
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> com
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> command
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> commands
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> myCommand
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> omnia
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> println
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> pure
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> sbt
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> scala
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> settings
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> state
+product stamps:
+4 items
+/Users/ravi/SbtPlugin/target/scala-2.10/sbt-0.13/classes/com/cba/omnia/cep/Myplugin$$anonfun$myCommand$1.class -> lastModified(1492566574000)
+/Users/ravi/SbtPlugin/target/scala-2.10/sbt-0.13/classes/com/cba/omnia/cep/Myplugin$$anonfun$settings$1.class -> lastModified(1492566574000)
+/Users/ravi/SbtPlugin/target/scala-2.10/sbt-0.13/classes/com/cba/omnia/cep/Myplugin$.class -> lastModified(1492566574000)
+/Users/ravi/SbtPlugin/target/scala-2.10/sbt-0.13/classes/com/cba/omnia/cep/Myplugin.class -> lastModified(1492566574000)
+source stamps:
+1 items
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> hash(bfde911237025e6f7532ab971979d9daca351955)
+binary stamps:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1459485740000)
+/Users/ravi/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.8.jar -> lastModified(1429633196000)
+/Users/ravi/.ivy2/cache/org.scala-sbt/command/jars/command-0.13.8.jar -> lastModified(1429630697000)
+/Users/ravi/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.8.jar -> lastModified(1429630580000)
+/Users/ravi/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.8.jar -> lastModified(1429630032000)
+/Users/ravi/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+class names:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/ravi/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.8.jar -> sbt.Init
+/Users/ravi/.ivy2/cache/org.scala-sbt/command/jars/command-0.13.8.jar -> sbt.Command$
+/Users/ravi/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.8.jar -> sbt.Append$
+/Users/ravi/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.8.jar -> sbt.Plugin
+/Users/ravi/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.package$
+internal apis:
+1 items
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCJYuHOAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cEKmlWV0AAZub3RpZnlzcQB+AAzyrE4ndAAEd2FpdHNxAH4ADK0YVjl0AA0kYXNJbnN0YW5jZU9mc3EAfgAMa8qkYnQABmVxdWFsc3NxAH4ADOj5bPV0AAxhc0luc3RhbmNlT2ZzcQB+AAz7iuK8dAAJbXlDb21tYW5kc3EAfgAM4nDNj3QACE15cGx1Z2luc3EAfgAMrGuH0XQADHN5bmNocm9uaXplZHNxAH4ADGNtind0AA0kaXNJbnN0YW5jZU9mc3EAfgAMuQMdsXQACW5vdGlmeUFsbHNxAH4ADBgUSzd0AAxpc0luc3RhbmNlT2ZzcQB+AAw9V05FdAAOZ2xvYmFsU2V0dGluZ3NzcQB+AAyOlojXdAAPcHJvamVjdFNldHRpbmdzc3EAfgAMBxr+vnQAAj09c3EAfgAMeygVPnQABWNsb25lc3EAfgAMm6XS1HQACHRvU3RyaW5nc3EAfgAMoeJYHHQAAiE9c3EAfgAMQJKKDnQACGdldENsYXNzc3EAfgAMuJotS3QAAm5lc3EAfgAM03cVv3QADWJ1aWxkU2V0dGluZ3NzcQB+AAzy6f2ddAACZXFzcQB+AAxy7WxPdAAIc2V0dGluZ3NzcQB+AAzNXm5UdAACIyNzcQB+AAzS0OI9dAAIZmluYWxpemVzcQB+AAxG0MsOdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAaY29tLmNiYS5vbW5pYS5jZXAuTXlwbHVnaW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBieHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBhAHBzcQB+AGZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBqc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGl0AAZQbHVnaW5zcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA3NidHNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCHc3EAfgB6dAAGT2JqZWN0c3EAfgB+c3EAfgCBdXEAfgCEAAAAA3NxAH4AhnQABGphdmFzcQB+AIZ0AARsYW5ncQB+AItzcQB+AHp0AANBbnlzcQB+AH5zcQB+AIF1cQB+AIQAAAACc3EAfgCGdAAFc2NhbGFxAH4Ai3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEWNvbS5jYmEub21uaWEuY2Vwc3EAfgCedAAHY29tLmNiYXNxAH4AnnQAA2NvbXNxAH4AnnQADWNvbS5jYmEub21uaWFzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVuD5oCZdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOC9Vc2Vycy9yYXZpL1NidFBsdWdpbi90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUv96REjcCXm91MquXGXnZ2so1GVU=
+external apis:
+0 items
+source infos:
+1 items
+/Users/ravi/SbtPlugin/src/main/scala/com/cba/omnia/cep/plugin.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW4PmgJl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9yYXZpL1NidFBsdWdpbi90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
