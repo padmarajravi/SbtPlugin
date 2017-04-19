@@ -1,3 +1,3 @@
-version in ThisBuild := "1.8.1"
+version in ThisBuild := "0.1"
 
 uniqueVersionSettings
