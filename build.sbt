@@ -2,9 +2,9 @@ name := "SbtPlugin"
 
 sbtPlugin:=true
 
-name:="testCasePlugin"
+name:="test-plugin"
 
-organization := "CEP"
+organization := "com.githib.padmarajravi"
 
 version := "1.0"
 
